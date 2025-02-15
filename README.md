@@ -63,7 +63,7 @@ Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=fo
 
 <h2>Github Status</h2>
 <div align="center"><img
-    src="https://github-readme-stats.vercel.app/api?username=eiasinprodhan&show_icons=true&count_private=true&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=eiasinprodhan&show_icons=true&count_private=true&hide_border=true&bg_color=dark"
     align="center" /></div>
 
 <h2>Connect With Me</h2>
