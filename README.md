@@ -1,13 +1,3 @@
-[![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://jhey.dev)
-<h1 align='center'> Hi! :wave:</h1>
-<p align='center'>
-I'm Jhey.
-</p>
-<p align='center'>For enquiries, reach out @ jhey@jhey.dev or over on <a href="https://twitter.com/jh3yy">Twitter</a>.</p>
-
-<h1 align='center'><i>Stay awesome!</i></h1>
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/eiasinprodhan/eiasinprodhan/a6be4a8ed5c0973dce463d2df13c9dd841f0e35e/github-contribution-grid-snake-dark.svg" />
