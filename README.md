@@ -61,11 +61,6 @@ Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the
 Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-<h2>Github Status</h2>
-<div align="center"><img
-    src="https://github-readme-stats.vercel.app/api?username=eiasinprodhan&show_icons=true&count_private=true&hide_border=true&bg_color=dark"
-    align="center" /></div>
-
 <h2>Connect With Me</h2>
 <div align="center">
   <a href="https://www.facebook.com/" target="_blank">
