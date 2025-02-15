@@ -1,4 +1,4 @@
-![logo]([https://github.com/imranhss/imranhss/blob/main/github-contribution-grid-snake-dark.svg](https://github.com/eiasinprodhan/eiasinprodhan/blob/main/github-contribution-grid-snake-dark.svg))
+![logo][https://raw.githubusercontent.com/eiasinprodhan/eiasinprodhan/a6be4a8ed5c0973dce463d2df13c9dd841f0e35e/github-contribution-grid-snake-dark.svg]
 
 <h1 align="center">Hi, I'm Eiasin Prodhan</h1>
 <h3 align="center">Full Stack Java Developer</h3>
