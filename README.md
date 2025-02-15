@@ -1,11 +1,9 @@
 ![logo](https://github.com/imranhss/imranhss/blob/main/github-contribution-grid-snake-dark.svg)
 
-<h1 align="center">Hi 👋, I'm Eiasin Prodhan</h1>
+<h1 align="center">Hi, I'm Eiasin Prodhan</h1>
 <h3 align="center">Full Stack Java Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eiasinprodhan&label=Profile%20views&color=0e75b6&style=flat" alt="imranhss" /> </p>
-
-<img src="https://raw.githubusercontent.com/imranhss/imranhss/main/giphy.gif" alt="coding" align="right" width="300px" height="200">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eiasinprodhan&label=Profile%20views&color=0e75b6&style=flat" alt="eiasinprodhan" /> </p>
 
 - 🔭 I’m currently working on [IsDB-BISEW Project](As JEE Trainer)
 
