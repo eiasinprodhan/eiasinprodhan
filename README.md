@@ -9,15 +9,11 @@
 
 - 🌱 I’m currently learning **HTML, CSS, Bootstrap, Javascript**
 
-- 📫 How to reach me **eiasinprodhan@gmail.com**
-
-- 📄 Know about my experiences [eiasinprodhan.com](www.eiasinprodhan.com)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://fb.com/eiasinprodhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="leoemranhss" height="30" width="40" /></a>
 <a href="https://twitter.com/eiasinprodhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emranhss" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/eiasinprodhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leoemranhss" height="30" width="40" /></a>
-<a href="https://fb.com/eiasinprodhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="leoemranhss" height="30" width="40" /></a>
 <a href="https://www.youtube.com/eiasinprodhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="emrancodebox" height="30" width="40" /></a>
 </p>
 
