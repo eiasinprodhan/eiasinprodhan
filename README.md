@@ -24,6 +24,8 @@
 
 <h2>My Skills</h2>
 
+<div align="center">
+
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -57,6 +59,8 @@ Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the
 ![Adobe
 Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+</div>
 
 <h2>Connect With Me</h2>
 <div align="center">
