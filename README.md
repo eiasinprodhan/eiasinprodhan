@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eiasinprodhan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eiasinprodhan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/eiasinprodhan/eiasinprodhan/a6be4a8ed5c0973dce463d2df13c9dd841f0e35e/github-contribution-grid-snake-dark.svg" />
@@ -65,6 +60,12 @@ Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the
 Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
+</div>
+
+<h2>My Statistics</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eiasinprodhan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eiasinprodhan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 <h2>Connect With Me</h2>
