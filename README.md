@@ -10,6 +10,21 @@
 <h1 align="center">Hi, I'm Eiasin Prodhan</h1>
 <h3 align="center">Full Stack Java Learner</h3>
 
+<div align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=eiasinprodhan&&style=flat-square](https://komarev.com/ghpvc/?username=eiasinprodhan&label=Profile%20views&color=0e75b6&style=flat"
+    align="center" />
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee"
+      align="center" />
+  </a>
+</div>
+
 <h2>My Skills</h2>
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -78,22 +93,3 @@ Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=fo
       alt=devto style="margin-bottom: 5px;" />
   </a>
 </div>
-
-<br />
-
-<div align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=eiasinprodhan&&style=flat-square](https://komarev.com/ghpvc/?username=eiasinprodhan&label=Profile%20views&color=0e75b6&style=flat"
-    align="center" />
-</div>
-
-<br />
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee"
-      align="center" />
-  </a>
-</div>
-
-<br />
