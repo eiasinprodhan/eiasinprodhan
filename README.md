@@ -34,6 +34,13 @@
 </a>  
 </div>
 
+<br/>
+
+<h2>Github Status</h2>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/> 
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=eiasinprodhan&&style=flat-square](https://komarev.com/ghpvc/?username=eiasinprodhan&label=Profile%20views&color=0e75b6&style=flat" align="center"/>
 </div> 
