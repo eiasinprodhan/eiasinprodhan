@@ -11,17 +11,14 @@
 <h3 align="center">Full Stack Java Learner</h3>
 
 <div align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=eiasinprodhan&&style=flat-square](https://komarev.com/ghpvc/?username=eiasinprodhan&label=Profile%20views&color=0e75b6&style=flat"
-    align="center" />
+  <img src="https://komarev.com/ghpvc/?username=eiasinprodhan&label=Profile%20views&color=0e75b6&style=flat" align="center"/>
 </div>
 
-<br />
+<br/>
 
 <div align="center">
-  <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee"
-      align="center" />
+  <a href="https://www.buymeacoffee.com/" target="_blank" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center" />
   </a>
 </div>
 
