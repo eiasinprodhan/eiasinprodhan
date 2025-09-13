@@ -103,7 +103,3 @@
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-orange?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
   </a>
 </p>
-
-<p align="center">
-<img src="3.gif"/>
-</p>
