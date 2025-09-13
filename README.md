@@ -62,7 +62,6 @@
   <a href="https://eiasinprodhan.github.io/"><img src="https://img.shields.io/badge/My_Portfolio-Demo-purple?style=for-the-badge&logo=github" /></a>
 </p>
 
-
 ---
 
 ## 📊 GitHub Stats
@@ -72,6 +71,7 @@
 </div>
 
 ## 📊 Most Used Languages
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eiasinprodhan&layout=compact&langs_count=6&theme=tokyonight&hide_border=false" height="170" />
 </div>
@@ -107,13 +107,5 @@
 <h2 align="center">🎞️ My GIF Gallery</h2>
 
 <p align="center">
-  <img src="1.gif" width="200" />
-  <img src="2.gif" width="200" />
-  <img src="3.gif" width="200" />
+<img src="2.gif"/>
 </p>
-<p align="center">
-  <img src="4.gif" width="200" />
-  <img src="5.gif" width="200" />
-  <img src="6.gif" width="200" />
-</p>
-
