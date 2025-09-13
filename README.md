@@ -104,8 +104,6 @@
   </a>
 </p>
 
-<h2 align="center">🎞️ My GIF Gallery</h2>
-
 <p align="center">
-<img src="2.gif"/>
+<img src="3.gif"/>
 </p>
