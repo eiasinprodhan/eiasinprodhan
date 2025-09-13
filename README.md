@@ -8,7 +8,7 @@
 ---
 
 <h1 align="center">Hi 👋, I'm Eiasin Prodhan</h1>
-<h3 align="center">A Passionate Full Stack Developer | Java Learner | Code Craftsman</h3>
+<h3 align="center">A Passionate Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=eiasinprodhan&label=Profile%20views&color=0e75b6&style=flat" />
@@ -24,7 +24,7 @@
 
 ## 🧠 About Me
 
-- 💻 I build full-stack applications using **Java, Spring Boot, Laravel, Angular, React**
+- 💻 I build full-stack applications using **Angular, React, PHP, Laravel, Java, Spring Boot**
 - 🚀 Always exploring better ways to write clean, scalable, and secure code
 - 🌱 Currently focused on mastering **Spring Boot** and advanced **Java backend**
 - 🤝 Open to collaboration on meaningful and challenging projects
@@ -73,7 +73,7 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://facebook.com/eiasinprodhan" target="_blank">
+  <a href="https://facebook.com/mdeiasinkhanovi" target="_blank">
     <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://twitter.com/eiasinprodhan" target="_blank">
