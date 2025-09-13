@@ -59,7 +59,7 @@
 <p align="center">
   <a href="https://github.com/eiasinprodhan/CREMS-Angular"><img src="https://img.shields.io/badge/CREMS_Angular-Demo-green?style=for-the-badge&logo=github" /></a>
   <a href="https://github.com/eiasinprodhan/CREMS-Spring-Boot"><img src="https://img.shields.io/badge/CREMS_Spring_Boot-Demo-green?style=for-the-badge&logo=github" /></a>
-  <a href="www.eiasinprodhan.github.io"><img src="https://img.shields.io/badge/My_Portfolio-Demo-purple?style=for-the-badge&logo=github" /></a>
+  <a href="https://eiasinprodhan.github.io/"><img src="https://img.shields.io/badge/My_Portfolio-Demo-purple?style=for-the-badge&logo=github" /></a>
 </p>
 
 
