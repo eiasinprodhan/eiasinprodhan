@@ -69,11 +69,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=eiasinprodhan&layout=compact&langs_count=6&theme=tokyonight&hide_border=false" height="170" />
-<br/>
 <img src="https://github-readme-stats.vercel.app/api?username=eiasinprodhan&show_icons=true&theme=tokyonight&hide_border=false" height="170" />
 </div>
 
+## 📊 Most Used Languages
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=eiasinprodhan&layout=compact&langs_count=6&theme=tokyonight&hide_border=false" height="170" />
+</div>
 ---
 
 ## 🔗 Connect With Me
