@@ -7,8 +7,10 @@
 
 ---
 
+<h1 align="center">Hi, I'm Eiasin Prodhan</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36454F&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Eiasin+Prodhan;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Laravel+Lover;Clean+Code+%7C+Scalable+Apps+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36454F&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Laravel+Lover;Clean+Code+%7C+Scalable+Apps+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
