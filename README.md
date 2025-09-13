@@ -57,12 +57,11 @@
 ## 🎠 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/eiasinprodhan/project-1"><img src="https://img.shields.io/badge/Project%201-Demo-green?style=for-the-badge&logo=github" /></a>
-  <a href="https://github.com/eiasinprodhan/project-2"><img src="https://img.shields.io/badge/Project%202-Demo-blue?style=for-the-badge&logo=github" /></a>
-  <a href="https://github.com/eiasinprodhan/project-3"><img src="https://img.shields.io/badge/Project%203-Demo-purple?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/eiasinprodhan/CREMS-Angular"><img src="https://img.shields.io/badge/CREMS_Angular-Demo-green?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/eiasinprodhan/CREMS-Spring-Boot"><img src="https://img.shields.io/badge/CREMS_Spring_Boot-Demo-green?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.eiasinprodhan.github.io"><img src="https://img.shields.io/badge/My_Portfolio-Demo-purple?style=for-the-badge&logo=github" /></a>
 </p>
 
-> 💡 Replace these with real project links when ready.
 
 ---
 
