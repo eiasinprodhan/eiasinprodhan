@@ -50,7 +50,7 @@
 
 ### **Mobile Development**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=android,flutter" alt="Mobile Stack" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,flutter" alt="Mobile Stack" />
 </p>
 
 ---
