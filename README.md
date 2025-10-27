@@ -1,37 +1,45 @@
 <p align="center">
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eiasinprodhan/eiasinprodhan/a6be4a8ed5c0973dce463d2df13c9dd841f0e35e/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eiasinprodhan/eiasinprodhan/a6be4a8ed5c0973dce463d2df13c9dd841f0e35e/github-contribution-grid-snake-dark.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/eiasinprodhan/eiasinprodhan/a6be4a8ed5c0973dce463d2df13c9dd841f0e35e/github-contribution-grid-snake-dark.svg" />
   </picture>
+
 </p>
 
 <h1 align="center">Hi there! I'm Eiasin Prodhan 👋</h1>
 
 <p align="center">
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=2000&color=36BCF7&center=true&vCenter=true&width=600&lines=💻+Full+Stack+Developer;🌱+Spring+Boot+%7C+Angular+%7C+Flutter;⚡+Passionate+Problem+Solver;🚀+Always+Learning+New+Things" alt="Typing SVG" />
+
 </p>
 
 <p align="center">
+
   <img src="https://komarev.com/ghpvc/?username=eiasinprodhan&label=Profile%20views&color=0e75b6&style=flat" />
+
 </p>
 
 ---
 
 ## 🚀 About Me & My Development Philosophy
 
-<p align="center">
+<p>
+
   - 👨‍💻 I specialize in **full-stack development**, building robust and scalable applications with a core focus on **Java** and **Spring Boot**.
   - 🌱 My journey is about continuous improvement: I am currently diving deep into **advanced Java backend architectures** and **cloud-native development**.
   - 💡 I'm driven by a passion for creating solutions that are not just functional, but also **clean, secure, and maintainable**.
   - 🤝 I am open to collaboration on challenging software projects. Feel free to **connect with me**!
+
 </p>
 
 ---
 
 ## 🛠️ Core Technology Stack
 
-<p align="center">
+<div align="center">
 
 ### **Backend Development**
 
@@ -65,7 +73,7 @@
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-</p>
+</div>
 
 ---
 
