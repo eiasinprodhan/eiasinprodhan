@@ -1,7 +1,4 @@
 <p align="center">
-  </p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eiasinprodhan/eiasinprodhan/a6be4a8ed5c0973dce463d2df13c9dd841f0e35e/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eiasinprodhan/eiasinprodhan/a6be4a8ed5c0973dce463d2df13c9dd841f0e35e/github-contribution-grid-snake-dark.svg" />
@@ -21,20 +18,18 @@
 
 ---
 
-## 🚀 About Me & My Philosophy
+## 🚀 About Me & My Development Philosophy
 
-Aesthetic improvement: Use a more concise header and combine the intro with your core philosophy.
-
-- 👨‍💻 I specialize in **full-stack development**, building robust and scalable applications with a core focus on **Java** and **Spring Boot**.
-- 🌱 My journey is about continuous improvement: I am currently diving deep into **advanced Java backend architectures** and **cloud-native development**.
-- 💡 I'm driven by a passion for creating solutions that are not just functional, but also **clean, secure, and maintainable**.
-- 🤝 I am open to collaboration on challenging software projects. Feel free to **connect with me**!
+<p align="center">
+  - 👨‍💻 I specialize in **full-stack development**, building robust and scalable applications with a core focus on **Java** and **Spring Boot**.
+  - 🌱 My journey is about continuous improvement: I am currently diving deep into **advanced Java backend architectures** and **cloud-native development**.
+  - 💡 I'm driven by a passion for creating solutions that are not just functional, but also **clean, secure, and maintainable**.
+  - 🤝 I am open to collaboration on challenging software projects. Feel free to **connect with me**!
+</p>
 
 ---
 
 ## 🛠️ Core Technology Stack
-
-Aesthetic improvement: Group the technologies into a single, clean section using smaller, consistent headings. This looks more organized than having four separate sections with `---` in between.
 
 <p align="center">
 
@@ -42,16 +37,18 @@ Aesthetic improvement: Group the technologies into a single, clean section using
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 <br/>
 
 ### **Frontend & Mobile**
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
@@ -59,21 +56,20 @@ Aesthetic improvement: Group the technologies into a single, clean section using
 
 <br/>
 
-### **Databases & Tools**
+### **Databases & DevOps**
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </p>
 
 ---
 
 ## 🌟 Featured Projects
-
-Aesthetic improvement: Use a clear heading and maintain the centered badge style for consistency.
 
 <p align="center">
   <a href="https://github.com/eiasinprodhan/CREMS-Angular" target="_blank">
@@ -93,37 +89,21 @@ Aesthetic improvement: Use a clear heading and maintain the centered badge style
 
 ## 📈 My GitHub Performance
 
-Aesthetic improvement: Consolidate all stats into one section with clear labels. The radical theme looks great and consistent.
-
 <p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=eiasinprodhan&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Eiasin Prodhan's GitHub Stats"/>
-      </td>
-      <td>
-        <img src="https://nirzak-streak-stats.vercel.app/?user=eiasinprodhan&theme=radical&hide_border=true" alt="Eiasin Prodhan's GitHub Streak"/> 
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eiasinprodhan&theme=radical&hide_border=true&layout=compact" alt="Eiasin Prodhan's Top Languages"/>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <br>
-        <img src="https://github-contributor-stats.vercel.app/api?username=eiasinprodhan&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repositories"/>
-      </td>
-    </tr>
-  </table>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=eiasinprodhan&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Eiasin Prodhan's GitHub Stats"/>
+    <br>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=eiasinprodhan&theme=radical&hide_border=true" alt="Eiasin Prodhan's GitHub Streak"/> 
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eiasinprodhan&theme=radical&hide_border=true&layout=compact" alt="Eiasin Prodhan's Top Languages"/>
+    <br>
+    <img src="https://github-contributor-stats.vercel.app/api?username=eiasinprodhan&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repositories"/>
+  </div>
 </p>
 
 ---
 
 ## 🌐 Connect & Support
-
-Aesthetic improvement: Keep the icons, but use consistent sizing and clear titles.
 
 <p align="center">
   <a href="https://linkedin.com/in/eiasinprodhan" target="_blank">
