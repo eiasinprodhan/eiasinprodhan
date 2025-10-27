@@ -22,8 +22,6 @@
 
 </p>
 
----
-
 ## 🧠 About Me
 
 - 💻 I build full-stack applications using **Java, Spring Boot, Node Js, Laravel, Angular, React**
@@ -31,7 +29,6 @@
 - 🌱 Currently focused on mastering **Spring Boot** and advanced **Java backend**
 - 🤝 Open to collaboration on meaningful and challenging projects
 
----
 
 ## 🛠️ Technology Stack
 
@@ -78,8 +75,6 @@
   </a>
 </p>
 
----
-
 ## 📈 My GitHub Performance
 
 <p align="center">
@@ -93,8 +88,6 @@
     <img src="https://github-contributor-stats.vercel.app/api?username=eiasinprodhan&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repositories"/>
   </div>
 </p>
-
----
 
 ## 🌐 Connect & Support
 
