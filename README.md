@@ -10,7 +10,7 @@
 <h1 align="center">Hi, I'm Eiasin Prodhan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=2000&color=36BCF7&center=true&vCenter=true&width=600&lines=💻+Full+Stack+Java+Developer;🌱+Spring+Boot+%7C+Angular+%7C+Flutter;⚡+Passionate+Problem+Solver;🚀+Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=2000&color=36BCF7&center=true&vCenter=true&width=600&lines=💻+Full+Stack+Developer;🌱+Spring+Boot+%7C+Angular+%7C+Flutter;⚡+Passionate+Problem+Solver;🚀+Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ## 🧠 About Me
 
-- 💻 I build full-stack applications using **Java, Spring Boot, Laravel, Angular, React**
+- 💻 I build full-stack applications using **Java, Spring Boot, Laravel, Angular, Node Js**
 - 🚀 Always exploring better ways to write clean, scalable, and secure code
 - 🌱 Currently focused on mastering **Spring Boot** and advanced **Java backend**
 - 🤝 Open to collaboration on meaningful and challenging projects
