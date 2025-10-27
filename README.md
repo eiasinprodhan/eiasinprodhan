@@ -73,9 +73,14 @@
 
 ## 🌟 Featured Projects
 
-<p align="center">
-<table> <tr> <td align="center" width="33%"> <a href="https://github.com/eiasinprodhan/CREMS-Angular"> <img src="https://img.shields.io/badge/CREMS-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> </a> <br> <sub><b>Frontend Application</b></sub> </td> <td align="center" width="33%"> <a href="https://github.com/eiasinprodhan/CREMS-Spring-Boot"> <img src="https://img.shields.io/badge/CREMS-Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> </a> <br> <sub><b>Backend API</b></sub> </td> <td align="center" width="33%"> <a href="https://eiasinprodhan.github.io/"> <img src="https://img.shields.io/badge/Portfolio-Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> <br> <sub><b>My Portfolio</b></sub> </td> </tr> </table>
-</p>
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%"> <a href="https://github.com/eiasinprodhan/CREMS-Angular"> <img src="https://img.shields.io/badge/CREMS-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> </a> <br> <sub><b>Frontend Application</b></sub> </td> <td align="center" width="33%"> <a href="https://github.com/eiasinprodhan/CREMS-Spring-Boot"> <img src="https://img.shields.io/badge/CREMS-Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> </a> <br> <sub><b>Backend API</b></sub> </td> <td align="center" width="33%"> <a href="https://eiasinprodhan.github.io/"> <img src="https://img.shields.io/badge/Portfolio-Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> <br> <sub><b>My Portfolio</b></sub>
+</td>
+</tr>
+</table>
+</div>
 
 ## 📈 My GitHub Performance
 
