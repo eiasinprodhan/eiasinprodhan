@@ -33,7 +33,7 @@
 
 ---
 
-## 🛠️ Core Technology Stack
+## 🛠️ Technology Stack
 
 <div align="center">
 
@@ -57,6 +57,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+</div>
 
 <br/>
 
