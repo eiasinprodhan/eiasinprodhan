@@ -24,16 +24,12 @@
 
 ---
 
-## 🚀 About Me & My Development Philosophy
+## 🧠 About Me
 
-<p>
-
-- 👨‍💻 I specialize in **full-stack development**, building robust and scalable applications with a core focus on **Java** and **Spring Boot**.
-- 🌱 My journey is about continuous improvement: I am currently diving deep into **advanced Java backend architectures** and **cloud-native development**.
-- 💡 I'm driven by a passion for creating solutions that are not just functional, but also **clean, secure, and maintainable**.
-- 🤝 I am open to collaboration on challenging software projects. Feel free to **connect with me**!
-
-</p>
+- 💻 I build full-stack applications using **Java, Spring Boot, Node Js, Laravel, Angular, React**
+- 🚀 Always exploring better ways to write clean, scalable, and secure code
+- 🌱 Currently focused on mastering **Spring Boot** and advanced **Java backend**
+- 🤝 Open to collaboration on meaningful and challenging projects
 
 ---
 
