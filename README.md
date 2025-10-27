@@ -11,11 +11,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=800&lines=💻+Full+Stack+Developer;🌱+Spring+Boot+%7C+Laravel+%7C+Node.js;⚡+React+%7C+Angular+%7C+Flutter;🚀+Always+Learning+New+Technologies;✨+Building+Scalable+Applications)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eiasinprodhan&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/eiasinprodhan?label=Followers&style=for-the-badge&color=blue" alt="followers" />
-  <img src="https://img.shields.io/github/stars/eiasinprodhan?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
-</p>
+![Profile views](https://komarev.com/ghpvc/?username=eiasinprodhan&label=Profile%20views&color=0e75b6&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/eiasinprodhan?label=Followers&style=for-the-badge&color=blue)
+![Stars](https://img.shields.io/github/stars/eiasinprodhan?label=Stars&style=for-the-badge&color=yellow)
 
 </div>
 
