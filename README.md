@@ -99,7 +99,7 @@
 # 📊 GitHub Stats
 
 
-
+<div align="center">
 ![Imran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=smimran64&theme=radical&hide_border=false&include_all_commits=true&count_private=true) 
 ![Imran's GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=smimran64&theme=radical&hide_border=false) 
 </div>
@@ -124,11 +124,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=smimran64&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 </div>
----
-
-
-  
-
 ---
 
 ## 🔗 Connect With Me
