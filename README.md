@@ -92,13 +92,15 @@
 
 <p align="center">
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=eiasinprodhan&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Eiasin Prodhan's GitHub Stats"/>
-    <br>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=eiasinprodhan&theme=radical&hide_border=true" alt="Eiasin Prodhan's GitHub Streak"/> 
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eiasinprodhan&theme=radical&hide_border=true&layout=compact" alt="Eiasin Prodhan's Top Languages"/>
-    <br>
-    <img src="https://github-contributor-stats.vercel.app/api?username=eiasinprodhan&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repositories"/>
+
+  ### **Github Status**
+  <img src="https://github-readme-stats.vercel.app/api?username=eiasinprodhan&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Eiasin Prodhan's GitHub Stats"/>
+  
+  ### **Github Contribution**
+  <img src="https://nirzak-streak-stats.vercel.app/?user=eiasinprodhan&theme=radical&hide_border=true" alt="Eiasin Prodhan's GitHub Streak"/> 
+    
+  ### **Most Used Languages**
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eiasinprodhan&theme=radical&hide_border=true&layout=compact" alt="Eiasin Prodhan's Top Languages"/>
   </div>
 </p>
 
