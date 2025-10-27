@@ -12,7 +12,7 @@
 
 <p align="center">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=800&lines=💻+Full+Stack+Developer;🌱+Spring+Boot+%7C+Laravel+%7C+Node.js;⚡+React+%7C+Angular+%7C+Flutter;🚀+Always+Learning+New+Technologies;✨+Building+Scalable+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=800&lines=💻+Full+Stack+Developer;🌱+Spring+Boot+%7C+Laravel+%7C+Node.js;⚡+React+%7C+Angular+%7C+Flutter;🚀+Always+Learning+New+Technologies;✨+Building+Scalable+Applications)](https://git.io/typing-svg)
 
 </p>
 
@@ -35,7 +35,6 @@
 - 🌱 Currently focused on mastering **Spring Boot** and advanced **Java backend**
 - 🤝 Open to collaboration on meaningful and challenging projects
 
-
 ## 🛠️ Technology Stack
 
 <div align="center">
@@ -49,7 +48,6 @@
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
-
 ### **Backend Development**
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -59,7 +57,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
 
 ### **Databases & DevOps**
 
@@ -76,14 +73,17 @@
 
 ## 🌟 Featured Projects
 
+<p align="center">
 <table> <tr> <td align="center" width="33%"> <a href="https://github.com/eiasinprodhan/CREMS-Angular"> <img src="https://img.shields.io/badge/CREMS-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> </a> <br> <sub><b>Frontend Application</b></sub> </td> <td align="center" width="33%"> <a href="https://github.com/eiasinprodhan/CREMS-Spring-Boot"> <img src="https://img.shields.io/badge/CREMS-Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> </a> <br> <sub><b>Backend API</b></sub> </td> <td align="center" width="33%"> <a href="https://eiasinprodhan.github.io/"> <img src="https://img.shields.io/badge/Portfolio-Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> <br> <sub><b>My Portfolio</b></sub> </td> </tr> </table>
+</p>
 
 ## 📈 My GitHub Performance
 
 <p align="center">
   <div align="center">
 
-  ### **Github Status**
+### **Github Status**
+
   <img src="https://github-readme-stats.vercel.app/api?username=eiasinprodhan&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Eiasin Prodhan's GitHub Stats"/>
   
   ### **Github Contribution**
